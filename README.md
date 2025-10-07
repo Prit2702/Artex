@@ -27,7 +27,7 @@ Cross-platform edge detection demo showcasing Android NDK, JNI, OpenCV-ready arc
 ![Web Viewer](docs/web_screenshot.png)
 
 ## 🏗️ Architecture
-
+```bash
 ┌─────────────┐
 │ Camera │
 │ (Android) │
@@ -62,7 +62,7 @@ Cross-platform edge detection demo showcasing Android NDK, JNI, OpenCV-ready arc
 │ TypeScript │
 │ Web Viewer │
 └─────────────┘
-
+```
 
 
 ## ⚙️ Setup & Build Instructions
